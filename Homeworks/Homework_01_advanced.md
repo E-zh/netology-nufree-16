@@ -1,10 +1,10 @@
 # NUFREE-16
 
-# Домашнее задание к занятию Домашнее задание к занятию «01. Что такое нейронные сети». Базовый уровень.
+# Домашнее задание к занятию Домашнее задание к занятию «01. Что такое нейронные сети». Продвинутый уровень.
 
 Для работы в Google Colab вам необходимо иметь аккаунт в Google.
 
-**Шаг 1.** Сделайте [копию блокнота](https://colab.research.google.com/drive/1moyBS2q_KKf6RU1YY48Zt-QkuJaM1O90#scrollTo=fm2u1yGz2Rko):  
+**Шаг 1.** Сделайте [копию блокнота](https://colab.research.google.com/drive/1mXwvhtPap2DNnSqiqoeY1COGG-4XyGbA#scrollTo=eKislGYQ1VN1 ):  
 (Файл -> Сохранить копию на Диске. Добавьте в название своей копии блокнота свои имя и фамилию).
 
 
@@ -17,4 +17,4 @@
 
 ### Ответ:
 
-Ответ на данное занятие [доступен по ссылке](https://colab.research.google.com/drive/1Tf-8j-jy5cYcuV5fdwMONz3Kwtwm1E2a?usp=sharing).
+Ответ на данное занятие [доступен по ссылке](https://colab.research.google.com/drive/1tXR4guIvWypDHif7JAp_OxDmuA7exH07?usp=sharing).
